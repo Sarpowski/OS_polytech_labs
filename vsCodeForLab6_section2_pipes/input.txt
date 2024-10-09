@@ -1,0 +1,7 @@
+Hello world!
+This is a test file.
+It will process these lines
+through our multiprocess system.
+Each line will be read by the source process,
+filtered through the middle process,
+and finally written by the sink process.

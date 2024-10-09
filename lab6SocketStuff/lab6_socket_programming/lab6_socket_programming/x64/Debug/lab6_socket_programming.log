@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Can\Desktop\operatingSystems\lab6SocketStuff\lab6_socket_programming\lab6_socket_programming\main.cpp(63,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  lab6_socket_programming.vcxproj -> C:\Users\Can\Desktop\operatingSystems\lab6SocketStuff\lab6_socket_programming\x64\Debug\lab6_socket_programming.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
